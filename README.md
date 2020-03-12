@@ -1,3 +1,13 @@
+# OICenter Special Zoom
+
+Local development: `yarn start`
+
+Deploy: `yarn deploy`.
+
+Deployment to URL: https://oicenter-zoom-disabilities.firebaseapp.com/
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
